@@ -1,3 +1,2 @@
-#SPDX-License-Identifier: MIT-0
 ---
-# vars file for ansible-role-rhel9-ism_o
+# defaults file for rhel9_ism_o
